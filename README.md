@@ -1,6 +1,6 @@
 # Flota de vehículos de transporte de carga con MongoDB
 
-Tarea 4 – Almacenamiento y Consultas de Datos en Big Data · Curso Big Data (202016911) · UNAD
+Tarea 4 – Almacenamiento y Consultas de Datos en Big Data · Curso Big Data (202016911) 
 Autor: Diego Armando Pérez Avellaneda
 
 ## Caso de uso
